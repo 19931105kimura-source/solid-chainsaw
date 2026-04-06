@@ -1,0 +1,83 @@
+{
+  "top": [
+    {
+      "id": "1775215411720",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775215403326.jpg",
+      "focalX": 0.6005853161979902,
+      "focalY": -0.29927471688510043,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    },
+    {
+      "id": "1775218161587",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775218158403.jpg",
+      "focalX": -0.32232880762686167,
+      "focalY": -0.5381870013220518,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    },
+    {
+      "id": "1775303898644",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775303896270.jpeg",
+      "focalX": 0,
+      "focalY": 0,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    },
+    {
+      "id": "1775304144815",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775304138710.JPG",
+      "focalX": 0,
+      "focalY": -1,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    },
+    {
+      "id": "1775304157263",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775304154064.JPG",
+      "focalX": 0,
+      "focalY": 1,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    },
+    {
+      "id": "1775304165078",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775304163261.JPG",
+      "focalX": 0,
+      "focalY": 0,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    }
+  ],
+  "bottom": [
+    {
+      "id": "1775303811896",
+      "title": " ",
+      "sub": "",
+      "imageUrl": "http://192.168.11.5:3000/uploads/promos/promo_1775303802718.jpeg",
+      "focalX": 1,
+      "focalY": 0.10796457412411509,
+      "linkType": "none",
+      "category": null,
+      "brand": null
+    }
+  ]
+}
